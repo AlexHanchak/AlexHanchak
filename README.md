@@ -19,7 +19,7 @@ My interests include mortal arts, sport and learning English.
 ---
 ### Find me around the web:
 
-- Sharing my life style as a developer on [engineer_lex.han](https://www.instagram.com/engineer_lex.han). ✨
+- Sharing my life style as a developer on [aleks.code](https://www.instagram.com/aleks.code/). ✨
 - Bragging about how cool I am on my [personal website](https://hanchakweb.firebaseapp.com/). 💛
 - Sharing my thoughts and updates on [Linkedin](https://www.linkedin.com/in/oleksandrhanchak/). 💼
 
