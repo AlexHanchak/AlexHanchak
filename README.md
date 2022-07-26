@@ -3,9 +3,9 @@
 <img align="right" height="300" src="https://hanchakweb.firebaseapp.com/static/media/portfolioImg.231e71a7.WebP">
 
 
-I’m a full stack developer, with a focus on backend, currently based in Uzhhorod, Ukraine.
+I’m a full stack developer, with a focus on backend, currently based in Germany.
 
-My interests include mortal arts, sport and learning English.
+My interests include coding, sport and learning English, German.
 
 ### My stack:
 *Python, Django, Flask, JavaScript, React.js, Redux, Node.js, Express, MongoDB, MySql*
