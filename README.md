@@ -12,8 +12,7 @@ My interests include coding, sport and learning English, German.
 
 
 ### My current to-do list:
-- [ ] learn TensorFlow, Pandas
-- [ ] build and distribute my second app in BeeWare
+- [ ] learn Spring
 
 
 ---
