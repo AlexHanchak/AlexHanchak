@@ -6,12 +6,10 @@ I’m a full stack developer, with a focus on backend, currently based in German
 My interests include coding, sport and learning English, German.
 
 ### My stack:
-*Python, Django, Flask, JavaScript, React.js, Redux, MongoDB, MySql*
+*Python, Flask, Java, Spring, JS, React.js,TS, MongoDB, MySql*
 
 
 ### My current to-do list:
-- [ ] learn Spring
-
 
 ---
 ### Find me around the web:
