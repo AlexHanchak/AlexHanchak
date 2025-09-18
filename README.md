@@ -14,7 +14,7 @@ My interests include coding, sport and learning English, German.
 ---
 ### Find me around the web:
 
-- Sharing my life style as a developer on [aleks.code]([https://www.instagram.com/aleks.code/](https://www.instagram.com/aleks.code/)). ✨
+- Sharing my life style as a developer on [aleks.code](https://www.instagram.com/aleks.codes/). ✨
 - Bragging about how cool I am on my [personal website](https://hanchakweb.firebaseapp.com/). 💛
 - Sharing my thoughts and updates on [Linkedin](https://www.linkedin.com/in/oleksandrhanchak/). 💼
 
