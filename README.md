@@ -6,7 +6,7 @@ I’m a full stack developer, with a focus on backend, currently based in German
 My interests include coding, sport and learning English, German.
 
 ### My stack:
-*Python, Flask, Java, Spring, JS, React.js,TS, MongoDB, MySql*
+*Python, Java, JS, TS, MongoDB, MySql*
 
 
 ### My current to-do list:
@@ -14,8 +14,6 @@ My interests include coding, sport and learning English, German.
 ---
 ### Find me around the web:
 
-- Sharing my life style as a developer on [aleks.code](https://www.instagram.com/aleks.codes/). ✨
-- Bragging about how cool I am on my [personal website](https://hanchakweb.firebaseapp.com/). 💛
 - Sharing my thoughts and updates on [Linkedin](https://www.linkedin.com/in/oleksandrhanchak/). 💼
 
 
